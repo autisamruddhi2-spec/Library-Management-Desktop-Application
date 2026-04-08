@@ -1,0 +1,14 @@
+Test Case 1: Add Book
+Expected: Book added successfully
+
+Test Case 2: Borrow Book
+Expected: Transaction created
+
+Test Case 3: Return Book
+Expected: Status updated to RETURNED
+
+Test Case 4: Overdue Detection
+Expected: Book marked as OVERDUE
+
+Test Case 5: Login
+Expected: Valid login opens dashboard
